@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/itemFavorites"
+        android:title="Favoritos"
+        android:icon="@drawable/mapa_img6"/>
+
+    <item
+        android:id="@+id/itemMenu"
+        android:title="Menú"
+        android:icon="@drawable/mapa_img7"/>
+
+
+
+</menu>
